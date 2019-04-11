@@ -4,8 +4,9 @@ Some projects I've worked on in my Applied Computational Mathematics program at 
 
 Projects to look at:
 - markovchains.py
-- Fourier Transforms.ipynb
+- fourier_transform.ipynb
 - PageRank Algorithm.ipynb
 - Image Compression with SVD.ipynb
+- Gradient Descent Optimization Methods.ipynb
 
 All other files are auxiliary.
