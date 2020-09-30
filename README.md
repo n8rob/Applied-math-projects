@@ -10,5 +10,6 @@ Projects to look at:
 - Gradient Descent Optimization Methods.ipynb
 - MetropolisAlgorithm.ipynb
 - WebCrawling.ipynb
+- SpeechRecognitionViaCDHMM.ipynb
 
 All other files are auxiliary.
