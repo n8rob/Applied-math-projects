@@ -8,5 +8,6 @@ Projects to look at:
 - PageRank Algorithm.ipynb
 - Image Compression with SVD.ipynb
 - Gradient Descent Optimization Methods.ipynb
+- MetropolisAlgorithm.ipynb
 
 All other files are auxiliary.
