@@ -9,5 +9,6 @@ Projects to look at:
 - Image Compression with SVD.ipynb
 - Gradient Descent Optimization Methods.ipynb
 - MetropolisAlgorithm.ipynb
+- WebCrawling.ipynb
 
 All other files are auxiliary.
